@@ -1,0 +1,39 @@
+/*=========
+== FONTS ==
+=========*/
+
+/* Imported from Google Fonts https://fonts.google.com */
+
+/* Inter 
+Implementation: font-family: 'Inter', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+/* Lexend Deca 
+Implementation: font-family: 'Lexend Deca', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+/*================
+== RESET STYLES ==
+================*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*=============
+== VARIABLES ==
+=============*/
+
+:root{
+    /* Primary colors */
+    --main_background: hsl(233, 47%, 7%);
+    --card_background: hsl(244, 38%, 16%);
+    --accent: hsl(277, 64%, 61%);
+
+    /* Neutral colors */
+    --main_heading_stats: hsl(0, 0%, 100%);
+    --main_paragraph: hsla(0, 0%, 100%, 0.75);
+    --stat_description: hsla(0, 0%, 100%, 0.6);
+}
