@@ -37,8 +37,8 @@ Desktop Version (1440px)
 ![](images/desktop-version.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution ](https://www.frontendmentor.io/solutions/stats-preview-card-components-finished-challenge-mfrCNSvkX)
+- Live Site URL: [Live Site](https://ascecent.github.io/FrontEnd-Mentor-Challenge-Stats-preview-card-component/)
 
 ## My process
 
@@ -72,8 +72,9 @@ I want to continue learning about how flex works and best practices to use it al
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Ascecent)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/iv%C3%A1n-holgu%C3%ADn-7bb86a211/)
+- Name - Ivan A. Holguin O.
+- Frontend Mentor - [@Ascecent](https://www.frontendmentor.io/profile/Ascecent)
+- LinkedIn - [@Ivan Holguin](https://www.linkedin.com/in/iv%C3%A1n-holgu%C3%ADn-7bb86a211/)
 
 ## Acknowledgments
 
